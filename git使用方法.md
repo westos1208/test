@@ -3,8 +3,8 @@
 2.设置用户
 
 ~~~
-git config --global user.email 1219669476@qq.com
-git config --global user.name  westos1208
+git config --global user.email xxxxxxx@qq.com     #邮箱信息
+git config --global user.name  xxxx               #git用户名
 ~~~
 
 3.查看用户信息
